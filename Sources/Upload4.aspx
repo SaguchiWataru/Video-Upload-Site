@@ -124,7 +124,7 @@
                         <br />
                         <br />
                     </strong>
-                    色とサイズ<br />
+                    コメントの色とサイズ<br />
                     <div style="width: 640px; height: 360px;">
                         <div style="position: absolute; z-index: 2;">
                             <strong id="form3">
