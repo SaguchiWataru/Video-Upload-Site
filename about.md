@@ -1,5 +1,5 @@
 # Azureを使って、簡易的な動画投稿サイトを作ってみた  
-作成した動画投稿サイトは以下からアクセスできます。  
+作成した動画投稿サイトは以下からアクセスできます。若干読み込みに時間がかかります。  
 [https://saguchi-wataru.azurewebsites.net/video-upload](https://saguchi-wataru.azurewebsites.net/video-upload)  
 
 ## 主な新機能一覧
@@ -25,6 +25,20 @@
 * 投稿した動画の素材・プロジェクトファイル・STEMデータを、視聴者がダウンロードできるようにしました。(任意で機能の有効無効を切り替えられるようにする予定です)
 
 ## 作る予定の機能
+
+* カレンダーで過去の日付を選択できないようにする
+
+* コメントレンダラーを作成する
+
+* ユーザーログインページを作成する
+
+* 投稿された動画一覧ページを作成する
+
+* 28MBを超えるファイルのアップロードに対応するようにする
+
+* 動画のタイトルを入力すると、おすすめのジャンルとタグを提案するようにする。(PythonとKerasを用いた深層学習で、学習モデルを作成しました。[https://github.com/SaguchiWataru/Deep_learning_of_titles_and_tags_using_Keras](https://github.com/SaguchiWataru/Deep_learning_of_titles_and_tags_using_Keras))
+
+* コメントを入力すると、おすすめの色を提案するようにする。(PythonとKerasを用いた深層学習で、学習モデルを作成しました。[https://github.com/SaguchiWataru/Deep_learning_on_comments_and_colors](https://github.com/SaguchiWataru/Deep_learning_on_comments_and_colors))
 
 ## 1ページ目
 ![ページ1](https://raw.githubusercontent.com/SaguchiWataru/Video-Upload-Site/main/Sources/page01.png)
