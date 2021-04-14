@@ -1,5 +1,5 @@
 # Azureを使って、簡易的な動画投稿サイトを作ってみた  
-作成した動画投稿サイトは以下からアクセスできます。若干読み込みに時間がかかります。  
+作成した動画投稿サイトは以下からアクセスできます。稀に若干読み込みに時間がかかる時があります。  
 [https://saguchi-wataru.azurewebsites.net/video-upload](https://saguchi-wataru.azurewebsites.net/video-upload)  
 
 ## 主な新機能一覧
