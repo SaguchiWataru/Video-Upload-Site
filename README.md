@@ -1,4 +1,4 @@
-# Azureを使って、ニコニコ動画の動画投稿ページのプロトタイプを作ってみた  
+# Azureを使って、ニコニコ動画の動画投稿ページのプロトタイプ(改善案)を作ってみた  
 作成した動画投稿サイトは以下からアクセスできます。稀に若干読み込みに時間がかかる時があります。  
 [https://saguchi-wataru.azurewebsites.net/video-upload](https://saguchi-wataru.azurewebsites.net/video-upload)  
 
